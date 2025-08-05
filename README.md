@@ -1,6 +1,14 @@
 # Sistema-de-Custodia-Descentralizada-para-Frases-Semilla
 Este repositorio documenta un sistema innovador de **custodia descentralizada y encadenada** de frases semilla (seed phrases), diseñado para maximizar la seguridad, privacidad y resiliencia entre grupos de individuos que no se conocen entre sí.
 
+Timestamp of 717098e73a6a
+Document digest (sha256):
+
+717098e73a6abe02305505ca7eb915794283231db1173934fd1620024d7ded6a
+
+717098e73a6abe02305505ca7eb915794283231db1173934fd1620024d7ded6af79e658a1783fa929e83ee63ebcafe11
+
+
 ---
 
 # 🧠 Sistema de Custodia Descentralizada para Frases Semilla
